@@ -10,4 +10,4 @@ RUN pip install -r video_app/requirements.txt
 
 ENTRYPOINT ["python","./video_app/main.py"]
 
-EXPOSE 3000
+EXPOSE 5000
